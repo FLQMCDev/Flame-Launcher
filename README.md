@@ -2,7 +2,7 @@
 
 **Flame Launcher** is a custom Eaglercraft launcher designed to offer a premium experience with a modern user interface and advanced features. This launcher is compatible with various versions of Eaglercraft and aims to provide an intuitive and seamless experience for users.
 
-![Flame Launcher](path/to/screenshot.png) <!-- Replace with actual image URL -->
+![Flame Launcher](images/screenshot.png) <!-- Replace with actual image URL -->
 
 ## Features
 
