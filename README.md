@@ -1,12 +1,14 @@
 # Flame Launcher
 
-**Flame Launcher** is a custom Minecraft launcher designed to offer a premium experience with a modern user interface and advanced features. This launcher is compatible with various versions of Minecraft and aims to provide an intuitive and seamless experience for users.
+**Flame Launcher** is a custom Eaglercraft launcher designed to offer a premium experience with a modern user interface and advanced features. This launcher is compatible with various versions of Eaglercraft and aims to provide an intuitive and seamless experience for users.
+
+![Flame Launcher](https://example.com/your-image.png) <!-- Replace with actual image URL -->
 
 ## Features
 
-- **Version Selection**: Choose from multiple Minecraft versions and launch them with a single click.
-- **Client Management**: Access and launch different Minecraft clients directly from the launcher.
-- **Server List**: View and connect to a list of popular Minecraft servers.
+- **Version Selection**: Choose from multiple Eaglercraft versions and launch them with a single click.
+- **Client Management**: Access and launch different Eaglercraft clients directly from the launcher.
+- **Server List**: View and connect to a list of popular Eaglercraft servers.
 - **Customizable UI**: Enjoy a modern, visually appealing user interface with smooth transitions and effects.
 - **Developer Info**: Get insights about the developers behind Flame Launcher.
 
@@ -29,10 +31,10 @@ To get started with Flame Launcher, follow these steps:
 
 ## Usage
 
-1. **Select Minecraft Version**: Use the dropdown menu to choose the desired version of Minecraft.
-2. **Launch Minecraft**: Click the "Launch" button to start the selected version.
-3. **Manage Clients**: Use the client selector to choose and launch different Minecraft clients.
-4. **View Server List**: Access the server list to connect to your favorite Minecraft servers.
+1. **Select Eaglercraft Version**: Use the dropdown menu to choose the desired version of Eaglercraft.
+2. **Launch Eaglercraft**: Click the "Launch" button to start the selected version.
+3. **Manage Clients**: Use the client selector to choose and launch different Eaglercraft clients.
+4. **View Server List**: Access the server list to connect to your favorite Eaglercraft servers.
 
 ## Contributing
 
