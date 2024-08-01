@@ -2,7 +2,7 @@
 
 **Flame Launcher** is a custom Eaglercraft launcher designed to offer a premium experience with a modern user interface and advanced features. This launcher is compatible with various versions of Eaglercraft and aims to provide an intuitive and seamless experience for users.
 
-![Flame Launcher](images/screenshot.png) <!-- Replace with actual image URL -->
+![Flame Launcher](images/screenshot.png) 
 
 ## Features
 
@@ -10,6 +10,7 @@
 - **Client Management**: Access and launch different Eaglercraft clients directly from the launcher.
 - **Server List**: View and connect to a list of popular Eaglercraft servers.
 - **Customizable UI**: Enjoy a modern, visually appealing user interface with smooth transitions and effects.
+- **Dynamic Background**: Experience a dynamic background that changes based on time of day or other conditions, adding a unique touch to the user interface.
 - **Developer Info**: Get insights about the developers behind Flame Launcher.
 
 ## Installation
